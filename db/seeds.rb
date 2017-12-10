@@ -11,3 +11,8 @@ Product.create!(title: 'Programming Ruby 1.9 & 2.0',
                 %{This is all magic...Gandalf..is that you?},
                 image_url: 'sloth.jpg',
                 price: 420)
+Product.create!(title: 'Programming Haskell',
+                description:
+                %{Give me that sweet lambdas},
+                image_url: 'sloth.jpg',
+                price: 345)
